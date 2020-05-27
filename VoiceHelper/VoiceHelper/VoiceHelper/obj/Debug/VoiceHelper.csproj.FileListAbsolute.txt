@@ -1,0 +1,10 @@
+C:\Users\IBRAU\OneDrive\Робочий стіл\VoiceHelper\VoiceHelper\VoiceHelper\bin\Debug\VoiceHelper.exe.config
+C:\Users\IBRAU\OneDrive\Робочий стіл\VoiceHelper\VoiceHelper\VoiceHelper\bin\Debug\VoiceHelper.exe
+C:\Users\IBRAU\OneDrive\Робочий стіл\VoiceHelper\VoiceHelper\VoiceHelper\bin\Debug\VoiceHelper.pdb
+C:\Users\IBRAU\OneDrive\Робочий стіл\VoiceHelper\VoiceHelper\VoiceHelper\obj\Debug\VoiceHelper.csprojAssemblyReference.cache
+C:\Users\IBRAU\OneDrive\Робочий стіл\VoiceHelper\VoiceHelper\VoiceHelper\obj\Debug\VoiceHelper.Properties.Resources.resources
+C:\Users\IBRAU\OneDrive\Робочий стіл\VoiceHelper\VoiceHelper\VoiceHelper\obj\Debug\VoiceHelper.csproj.GenerateResource.cache
+C:\Users\IBRAU\OneDrive\Робочий стіл\VoiceHelper\VoiceHelper\VoiceHelper\obj\Debug\VoiceHelper.csproj.CoreCompileInputs.cache
+C:\Users\IBRAU\OneDrive\Робочий стіл\VoiceHelper\VoiceHelper\VoiceHelper\obj\Debug\VoiceHelper.exe
+C:\Users\IBRAU\OneDrive\Робочий стіл\VoiceHelper\VoiceHelper\VoiceHelper\obj\Debug\VoiceHelper.pdb
+C:\Users\IBRAU\OneDrive\Робочий стіл\VoiceHelper\VoiceHelper\VoiceHelper\obj\Debug\VoiceHelper.Form1.resources

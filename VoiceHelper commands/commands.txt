@@ -1,0 +1,39 @@
+Hello
+How are you
+Good
+What time is it
+What is today
+Open google
+Wake
+Sleep
+Restart
+Update
+Open notepad
+Close notepad
+Helper
+Whats the weather like
+Whats the temperature
+Minimaze
+Unminimaze
+Maximaze
+Play
+Pause
+Spotify
+Next song
+Last song
+Presentation
+Last
+Next
+Start
+Enter
+Back
+Aproach
+Remove
+Up
+Down
+Left
+Right
+New slide
+Delete
+What is my name
+Do I like football
